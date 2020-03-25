@@ -4,10 +4,10 @@ Trigolion is a simple app to manage an electoral roll file.
 
 Currently used to coordinate efforts in supporting the local community during the COVID-19 crisis. 
 
-This site is build with the Laravel framework, details below. 
+This site is build with the Laravel framework, details below. The front end UI is in Welsh, but the back end programming is PHP with English variables and class names. 
 
 Mei Gwilym  
-@meigwilym  
+<a href="https://twitter.com/meigwilym">@meigwilym</a>  
 March 2020
 
 ## About Laravel
